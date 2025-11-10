@@ -1,6 +1,7 @@
-# airflow-etl-pipeline
+# Airflow-ETL-Pipeline
 
 Airflow ETL Pipeline: Stock Market Data
+
 This project demonstrates building an automated ETL pipeline using Apache Airflow to extract daily stock market data from the Polygon API, transform JSON data into a tabular format with Python and pandas, and load the results into a local SQLite database.
 
 Features
